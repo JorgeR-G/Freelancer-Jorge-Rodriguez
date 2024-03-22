@@ -1,5 +1,6 @@
 <h1 align="center">Proyecto Personal</h1>
 <p>Página Web creada para un Desarrollador Freelancer.</p>
+<p>La página totalmente es responsive para cualquier dispositivo</p>
 <p>Creada con HTML y CSS, se puede observar en la web una navegacion principal, donde nos llevara a los distintos apartados:</p>
   - Inicio 
   - Sobre MI
