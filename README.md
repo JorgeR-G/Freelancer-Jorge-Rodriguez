@@ -1,6 +1,9 @@
 # Proyecto Diseñador Freelancer🌐
 
 Bienvenido/a a mi proyecto Diseñador Freelancer, donde puedes interactuar por la navegación personal y saber más del diseñador o contactar con él a través de un formulario. 
+Este es un proyecto que contiene todo lo necesario para ver en Netlify.
+<br>
+https://freelancer-jorge-rodriguez.netlify.app/
 
 ## Características 🚀
 
