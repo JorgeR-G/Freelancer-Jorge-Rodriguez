@@ -6,6 +6,7 @@ Este es un proyecto que contiene todo lo necesario para ver en Netlify.
 https://freelancer-jorge-rodriguez.netlify.app/
 
 El siguiente proyecto consta de un Sitio Web.
+
 ![web](https://github.com/user-attachments/assets/a97fc0c9-646b-4091-a181-19de10121265)
 
 En el sitio web se muestra un menú que ofrece dicha web, así mismo el cliente podrá visualizar los servicios que propone y realizar la contratación de un nuevo servicio desde el formulario si gusta.
